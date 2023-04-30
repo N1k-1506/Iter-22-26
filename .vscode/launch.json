@@ -1,0 +1,804 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "hq05",
+            "request": "launch",
+            "mainClass": "DSA_02.hq05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "hq04",
+            "request": "launch",
+            "mainClass": "DSA_02.hq04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "hq03",
+            "request": "launch",
+            "mainClass": "DSA_02.hq03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "DSA_02.q10",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "hq02",
+            "request": "launch",
+            "mainClass": "DSA_02.hq02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "DSA_02.Demo",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q08",
+            "request": "launch",
+            "mainClass": "q08",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q07",
+            "request": "launch",
+            "mainClass": "q07",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q05",
+            "request": "launch",
+            "mainClass": "q05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q06",
+            "request": "launch",
+            "mainClass": "q06",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "DSA_02.Main",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Exam",
+            "request": "launch",
+            "mainClass": "DSA_02.Exam",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q8",
+            "request": "launch",
+            "mainClass": "DSA_02.q8",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "DSA_02.Person",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q08",
+            "request": "launch",
+            "mainClass": "DSA_02.q08",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q09",
+            "request": "launch",
+            "mainClass": "DSA_02.q09",
+            "projectName": "code_f4767404"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "q01",
+            "request": "launch",
+            "mainClass": "Arrays.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q03",
+            "request": "launch",
+            "mainClass": "Arrays.q03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q04",
+            "request": "launch",
+            "mainClass": "Arrays.q04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q05",
+            "request": "launch",
+            "mainClass": "Arrays.q05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q06",
+            "request": "launch",
+            "mainClass": "Arrays.q06",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q07",
+            "request": "launch",
+            "mainClass": "Arrays.q07",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q08",
+            "request": "launch",
+            "mainClass": "Arrays.q08",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q09",
+            "request": "launch",
+            "mainClass": "Arrays.q09",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq3",
+            "request": "launch",
+            "mainClass": "DSA_01.haq3",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq4",
+            "request": "launch",
+            "mainClass": "DSA_01.haq4",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq5",
+            "request": "launch",
+            "mainClass": "DSA_01.haq5",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q01(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q02",
+            "request": "launch",
+            "mainClass": "DSA_01.q02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q03(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q05(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q06(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q06",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q07(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q07",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q08(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q08",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q09(1)",
+            "request": "launch",
+            "mainClass": "DSA_01.q09",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q10",
+            "request": "launch",
+            "mainClass": "DSA_01.q10",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q01(2)",
+            "request": "launch",
+            "mainClass": "DSA_02.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q02(1)",
+            "request": "launch",
+            "mainClass": "DSA_02.q02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q03(2)",
+            "request": "launch",
+            "mainClass": "DSA_02.q03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q04(1)",
+            "request": "launch",
+            "mainClass": "DSA_02.q04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q05(2)",
+            "request": "launch",
+            "mainClass": "DSA_02.q05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q06(2)",
+            "request": "launch",
+            "mainClass": "DSA_02.q06",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q07(2)",
+            "request": "launch",
+            "mainClass": "DSA_02.q07",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq01",
+            "request": "launch",
+            "mainClass": "Methods.haq01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq02",
+            "request": "launch",
+            "mainClass": "Methods.haq02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq03",
+            "request": "launch",
+            "mainClass": "Methods.haq03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq04",
+            "request": "launch",
+            "mainClass": "Methods.haq04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq05",
+            "request": "launch",
+            "mainClass": "Methods.haq05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q01(3)",
+            "request": "launch",
+            "mainClass": "Methods.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q02(2)",
+            "request": "launch",
+            "mainClass": "Methods.q02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q03(3)",
+            "request": "launch",
+            "mainClass": "Methods.q03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q04(2)",
+            "request": "launch",
+            "mainClass": "Methods.q04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q05(3)",
+            "request": "launch",
+            "mainClass": "Methods.q05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q06(3)",
+            "request": "launch",
+            "mainClass": "Methods.q06",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q07(3)",
+            "request": "launch",
+            "mainClass": "Methods.q07",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q08(2)",
+            "request": "launch",
+            "mainClass": "Methods.q08",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q09(2)",
+            "request": "launch",
+            "mainClass": "Methods.q09",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q10(1)",
+            "request": "launch",
+            "mainClass": "Methods.q10",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Ak_hw_q01",
+            "request": "launch",
+            "mainClass": "conditionals.Ak_hw_q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "Ak_hw_q02",
+            "request": "launch",
+            "mainClass": "conditionals.Ak_hw_q02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q01(4)",
+            "request": "launch",
+            "mainClass": "conditionals.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q02(3)",
+            "request": "launch",
+            "mainClass": "conditionals.q02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q03(4)",
+            "request": "launch",
+            "mainClass": "conditionals.q03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q04(3)",
+            "request": "launch",
+            "mainClass": "conditionals.q04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "apclgq1",
+            "request": "launch",
+            "mainClass": "loop1.apclgq1",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq1",
+            "request": "launch",
+            "mainClass": "loop1.haq1",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq2",
+            "request": "launch",
+            "mainClass": "loop1.haq2",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq3(1)",
+            "request": "launch",
+            "mainClass": "loop1.haq3",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq4(1)",
+            "request": "launch",
+            "mainClass": "loop1.haq4",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq5(1)",
+            "request": "launch",
+            "mainClass": "loop1.haq5",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "primeno",
+            "request": "launch",
+            "mainClass": "loop1.primeno",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q01(5)",
+            "request": "launch",
+            "mainClass": "loop1.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q02(4)",
+            "request": "launch",
+            "mainClass": "loop1.q02",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q03(5)",
+            "request": "launch",
+            "mainClass": "loop1.q03",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q04(4)",
+            "request": "launch",
+            "mainClass": "loop1.q04",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q05(4)",
+            "request": "launch",
+            "mainClass": "loop1.q05",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q06(4)",
+            "request": "launch",
+            "mainClass": "loop1.q06",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q07(4)",
+            "request": "launch",
+            "mainClass": "loop1.q07",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q08(3)",
+            "request": "launch",
+            "mainClass": "loop1.q08",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q09(3)",
+            "request": "launch",
+            "mainClass": "loop1.q09",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q10(2)",
+            "request": "launch",
+            "mainClass": "loop1.q10",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q11",
+            "request": "launch",
+            "mainClass": "loop1.q11",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q12",
+            "request": "launch",
+            "mainClass": "loop1.q12",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q13",
+            "request": "launch",
+            "mainClass": "loop1.q13",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q14",
+            "request": "launch",
+            "mainClass": "loop1.q14",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q15",
+            "request": "launch",
+            "mainClass": "loop1.q15",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq1(1)",
+            "request": "launch",
+            "mainClass": "loop2.haq1",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq2(1)",
+            "request": "launch",
+            "mainClass": "loop2.haq2",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq3(2)",
+            "request": "launch",
+            "mainClass": "loop2.haq3",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq4(2)",
+            "request": "launch",
+            "mainClass": "loop2.haq4",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "haq5(2)",
+            "request": "launch",
+            "mainClass": "loop2.haq5",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "loop2.q1",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q10(3)",
+            "request": "launch",
+            "mainClass": "loop2.q10",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q2",
+            "request": "launch",
+            "mainClass": "loop2.q2",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q3",
+            "request": "launch",
+            "mainClass": "loop2.q3",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q4",
+            "request": "launch",
+            "mainClass": "loop2.q4",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q5",
+            "request": "launch",
+            "mainClass": "loop2.q5",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q6a",
+            "request": "launch",
+            "mainClass": "loop2.q6a",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q6b",
+            "request": "launch",
+            "mainClass": "loop2.q6b",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q6c",
+            "request": "launch",
+            "mainClass": "loop2.q6c",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q6d",
+            "request": "launch",
+            "mainClass": "loop2.q6d",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q7a",
+            "request": "launch",
+            "mainClass": "loop2.q7a",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q7b",
+            "request": "launch",
+            "mainClass": "loop2.q7b",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q7c",
+            "request": "launch",
+            "mainClass": "loop2.q7c",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q8",
+            "request": "launch",
+            "mainClass": "loop2.q8",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q9",
+            "request": "launch",
+            "mainClass": "loop2.q9",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q01(6)",
+            "request": "launch",
+            "mainClass": "recursive.q01",
+            "projectName": "code_f4767404"
+        },
+        {
+            "type": "java",
+            "name": "q02(5)",
+            "request": "launch",
+            "mainClass": "recursive.q02",
+            "projectName": "code_f4767404"
+        }
+    ]
+}
