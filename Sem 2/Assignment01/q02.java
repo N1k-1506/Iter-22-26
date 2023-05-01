@@ -1,3 +1,12 @@
+/*The body mass index (BMI) is commonly used by health and nutrition professionals to estimate
+human body fat in populations. It is computed by taking the individual's weight (mass) in
+kilograms and dividing it by the square of their height in meters.
+
+Sample Run-1:
+Enter person Weight in kg: 68
+Enter height of person in meter: 2
+The person is Underweight.*/
+
 import java.util.Scanner;
 public class q02 {
 
