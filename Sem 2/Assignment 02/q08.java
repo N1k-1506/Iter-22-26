@@ -1,32 +1,34 @@
-import java.util.Scanner;
+
 public class q08 {
-    public static void main(String[] args) {
-        Scanner sc= new Scanner(System.in);
-        Person p1= new Person();
-        System.out.println("Enter the name:");
-        String n1=sc.nextLine();
-        p1.name=n1;
-        p1.count();
-        p1.display();
-    }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		PERSON p1=new PERSON("Abhinash Mishra");
+		p1.count();
+		p1.display();
+	}
+
 }
 interface DetailInfo{
-    void display();
-    void count();
+	void display();
+	int count();
 }
-class Person implements DetailInfo{
-    static int maxcount;
-    String name;
-    public void count(){
-        char[] n=name.toCharArray();
-        for(int i=0;i<n.length;i++){
-            if(n[i]!=' '){
-                maxcount++;
-            }
-        }
-    }
-    public void display(){
-        System.out.println("Name : "+this.name+"\nCount="+maxcount);
-    } 
+class PERSON implements DetailInfo{
+	String name;
+	static int maxcount=0;
+	PERSON(String n){
+		name=n;
+	}
 
+	public int count() {
+		char[] ch=name.toCharArray();
+		for(int i=0;i<ch.length;i++) {
+			if(ch[i]!=' ') {
+				maxcount++;
+			}
+		}
+		return maxcount;
+	}
+	public void display() {
+		System.out.println("Name: "+name+"\nNo. of characters in the name:"+maxcount);
+	}
 }

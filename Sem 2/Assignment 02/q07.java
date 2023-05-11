@@ -1,26 +1,31 @@
+
 public class q07 {
-   public static void main(String[] args) {    
-    Employee H=new Employee("Javed chaurasia", 34, 191, 69000.0);
-    H.empDisplay();
-   }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee E1=new Employee("Puneet",34,732,68000);
+		System.out.println("Details of Employee:");
+		E1.empDisplay();
+	}
+
 }
 class Person{
-    String name;
-    int age;
-    Person(String name,int age){
-        this.name=name;
-        this.age=age;
-    }
+	String name;
+	int age;
+	Person(String n,int x){
+		name=n;
+		age=x;
+	}
+	
 }
 class Employee extends Person{
-    int eid;
-    double salary;
-    Employee(String name,int age,int eid,double salary){
-        super(name,age);
-        this.salary=salary;
-        this.eid=eid;
-    }
-    void empDisplay(){
-        System.out.println("Name: "+this.name+"\nAge: "+this.age+"\nEmployee ID: "+eid+"\nSalary:"+salary);
-    }
+	int eid;
+	double salary;
+	Employee(String n,int x,int id,double s){
+		super(n,x);
+		eid=id;
+		salary=s;
+	}
+	void empDisplay() {
+		System.out.println("\nName: "+this.name+"\nAge: "+this.age+"\nEmployee id: "+this.eid+"\nSalary: "+this.salary);
+	}
 }

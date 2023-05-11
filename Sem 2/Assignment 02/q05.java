@@ -20,6 +20,7 @@ public class q05 {
 	}
 
 }
+
 class Deposit{
 	long Principal;
 	int time;
@@ -30,15 +31,21 @@ class Deposit{
 	Deposit (long a, int b, double c){
 		Principal=a;
 		time=b;
+	     
 		rate=c;
+	     
 	}
 	Deposit (long a, int b){
+	     
 		Principal=a;
+	     
 		time=b;
 	}
 	Deposit (long a, double c){
+	     
 		Principal=a;
 		rate=c;
+	                           
 	}
 	double calc_Amount() {
 		this.Total_amount=Principal+((Principal*rate*time)/100);
