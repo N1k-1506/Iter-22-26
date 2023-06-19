@@ -1,3 +1,4 @@
+package Dsa_03;
 
 import java.util.Scanner;
 public class q5 {
@@ -6,7 +7,7 @@ public class q5 {
         Scanner sc=new Scanner(System.in);
         Integer[] array=new Integer[5];
         System.out.println("Enter elements of array ");
-        for(int i: array){
+        for(int i=0;i<array.length;i++){
             array[i]=sc.nextInt();
         }
         System.out.println("Enter element to search for: ");
@@ -16,9 +17,9 @@ public class q5 {
 
     }
     public static <T> int count(T[] array, T item){
-        int count=-1;
+        int count=0;
         for(int i=0;i<array.length;i++){
-            if(array[i]==item){
+            if(array[i].equals(item)){
                 count++;
             }
         }

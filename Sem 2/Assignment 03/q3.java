@@ -1,4 +1,4 @@
-
+package Dsa_03;
 import java.util.Scanner;
 public class q3 extends MarksOutOfBoundException{
     public static void main(String[] args) throws MarksOutOfBoundException {
