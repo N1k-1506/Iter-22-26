@@ -13,7 +13,7 @@ public class q09 {
 	}
 
 }
-class STUDENT{
+class Student01{
 		int roll;
 		String name,course;
 		void inputStudent(String n,int r,String c){
@@ -25,7 +25,7 @@ class STUDENT{
 			System.out.println("Name: "+name+"\nRoll number: "+roll+"\nCourse: "+course);
 		}
 }
-class Exam extends STUDENT{
+class Exam extends Student01{
 	int mark1,mark2,mark3;
 	void inputMarks(int m1,int m2,int m3) {
 		mark1=m1;
