@@ -14,7 +14,7 @@ public class q5 {
         int n=sc.nextInt();
         int a=count(array,n );
         System.out.printf("Number of times %d present in the array is %d",n,a);
-
+        
     }
     public static <T> int count(T[] array, T item){
         int count=0;
