@@ -1,8 +1,6 @@
 package Dsa_03;
 import java.util.Scanner;
 public class haq1 extends InvalidBalanceException {
-
-
 public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     Bank b1=new Bank("Vikash", 1234, 500);
