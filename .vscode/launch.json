@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "q08",
+            "request": "launch",
+            "mainClass": "q08",
+            "projectName": "Iter-22-26_65439bc"
+        },
+        {
+            "type": "java",
             "name": "hq05",
             "request": "launch",
             "mainClass": "DSA_02.hq05",
