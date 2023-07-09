@@ -27,7 +27,7 @@ class Bank{
 }
 class InvalidBalanceException extends Exception{
     static void check(int n) throws InvalidBalanceException{
-        if(n<=100){
+        if(n<0){
             throw new InvalidBalanceException();
         }
     }
