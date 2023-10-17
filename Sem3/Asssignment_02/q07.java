@@ -1,5 +1,4 @@
 package Asssignment_02;
-
 public class q07 {
     public static void main(String[] args) {
         System.out.println(power(3, 5));

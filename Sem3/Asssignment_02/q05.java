@@ -1,5 +1,4 @@
 package Asssignment_02;
-
 public class q05 {
     public static void main(String[] args) {
         int a=gcd(999,126);

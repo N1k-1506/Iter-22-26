@@ -5,7 +5,6 @@ public class q02 {
         int [] a={2,1,4,5,0,2};
         System.out.println(min(a, 0, a[0]));
         System.out.println(max(a, 0, a[0]));
-
     }
     static int min(int []a,int i,int min){
         if(i>a.length-1){

@@ -1,5 +1,4 @@
 package Asssignment_02;
-
 public class q03 {
     public static void main(String[] args) {
         System.out.println(fact(5));
