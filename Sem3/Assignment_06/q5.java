@@ -1,6 +1,5 @@
 //Given a list n numbers,find the element which appears maximum no. of times 
-//Java program to find the most frequent element 
-//in an array 
+
 import java.util.HashMap; 
 import java.util.Map; 
 import java.util.Map.Entry; 
