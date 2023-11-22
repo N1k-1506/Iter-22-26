@@ -19,7 +19,6 @@ class q5 {
 				int freq = hp.get(key); 
 				freq++; 
 				hp.put(key, freq);
-				System.out.println(freq); 
 			} 
 			else
 			{ 
