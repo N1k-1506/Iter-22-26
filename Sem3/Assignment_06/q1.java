@@ -1,4 +1,4 @@
-//Finding first repeated element in an array.(Time complexity ,space,approach name to be mentioned in the assignment copy)
+//Finding first repeated element in an array.
 import java.util.HashMap;
 public class q1 {
 	public static void main(String[] args) {
