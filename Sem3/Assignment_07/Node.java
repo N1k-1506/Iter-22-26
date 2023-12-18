@@ -170,7 +170,7 @@ public class Node{
         System.out.println("Linked List after inserting at position 2:");
         LL.traversal(linkedList.head);
        
-        // Inserting at any position
+        // Inserting at end position
         Node newNodeAtEnd = new Node(6);
         LL.insertAtEnd(linkedList.head, newNodeAtEnd);
         System.out.println("Linked List after inserting at end:");
