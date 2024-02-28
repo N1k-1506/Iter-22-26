@@ -7,7 +7,7 @@ import java.util.Stack;
 
 public class Graphtraversal {
     protected static class Edge {
-        int src, dest, weight;
+        int src, dest;
         public Edge(int x, int y) {
             src = x;
             dest = y;
